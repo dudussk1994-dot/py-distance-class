@@ -3,6 +3,9 @@ from typing import Union
 
 
 class Distance:
+    # Write your code here
+    pass
+
     def __init__(self, km: float) -> None:
         self.km = km
 
